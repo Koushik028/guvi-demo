@@ -1,0 +1,57 @@
+.card-container {
+    max-width: 500px; 
+    margin: 0 auto;
+  }
+  
+  .elementor-post__card {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .elementor-post__thumbnail img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .elementor-post__title a {
+    font-size: 18px;
+  }
+  
+  .elementor-post__excerpt {
+    font-size: 14px;
+  }
+  
+  .elementor-post__read-more {
+    font-size: 14px;
+  }
+  
+  .elementor-post-date,
+  .elementor-post-avatar {
+    font-size: 12px;
+  }
+
+  
+  .card-wrapper {
+    margin-bottom: -50px; 
+  }
+  
+  .card-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; 
+  }
+  
+  .card-container {
+ 
+  padding: 20px;
+  margin-bottom: 20px;
+   
+  }
+
+  .space-between-cards {
+    margin-top: 10px; /* Add margin between sets of cards */
+  }
+
+  
+  
+  
